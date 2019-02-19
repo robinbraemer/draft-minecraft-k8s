@@ -1,4 +1,4 @@
-# Proposal: *Running Minecraft Networks in Kubernetes!*
+# Draft: *Running Minecraft Networks in Kubernetes!*
 
 
 # Goal
