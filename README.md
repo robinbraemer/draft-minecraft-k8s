@@ -76,6 +76,7 @@ to the desired ProxyNet name.
 A Server resource presents one Minecraft Server.
 
 **How to create Servers and let them join a ProxyNet?**
+
 You decide how Server Pods are being created.
 
 For instance you could use a
@@ -86,7 +87,7 @@ for each new Server.
 
 *Note: A Server is a concept and exists in form of the `minekube-resource=server` label on each Server Pod.*
 
-##Simplicity is Complicated End
+## Simplicity is Complicated
 I thought about plenty solutions and they got pretty complex and hard to implement as I
 was writing different concepts.
 I think this is the best resolution between simplicity, flexibility and extendability.
